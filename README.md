@@ -11,7 +11,7 @@ Primeiro devemos clonar os arquivos necessários à criação do pacote de<br>in
 
 Em seguida, acessamos a pasta e executamos o comando de<br>criação de pacotes para sistemas ArchLinux:
 
-> ``` $ cd Discord && makepkg ```
+> ``` $ cd discord && makepkg ```
 
 #### Instalação
 
