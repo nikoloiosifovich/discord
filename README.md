@@ -7,7 +7,7 @@ Este repositório é baseado na versão desatualizada do repositório oficial.
 
 Primeiro devemos clonar os arquivos necessários à criação do pacote de<br>instalação:
 
-> ``` $ git clone https://github.com/nikoloiosifovich/Discord ```
+> ``` $ git clone https://github.com/nikoloiosifovich/discord ```
 
 Em seguida, acessamos a pasta e executamos o comando de<br>criação de pacotes para sistemas ArchLinux:
 
