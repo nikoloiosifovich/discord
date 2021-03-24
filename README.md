@@ -1,4 +1,4 @@
-# Discord v0.0.10
+# Discord v0.0.14
 Repositório de atualizações do [Discord](https://discordapp.com/) para os sistemas ArchLinux. <br>
 Este repositório é baseado na versão desatualizada do repositório oficial.
 <hr>

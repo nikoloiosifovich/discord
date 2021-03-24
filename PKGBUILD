@@ -2,7 +2,7 @@
 
 pkgname=discord
 _pkgname=Discord
-pkgver=0.0.10
+pkgver=0.0.14
 pkgrel=0
 pkgdesc="Um bate-papo de voz e texto para jogadores que é gratuito, seguro e que funciona tanto no celular quanto no computador."
 arch=('x86_64')
@@ -15,7 +15,7 @@ optdepends=('libpulse: Pulseaudio support'
 source=("https://dl.discordapp.net/apps/linux/$pkgver/$pkgname-$pkgver.tar.gz"
         'LICENSE.html::https://discordapp.com/terms'
         'OSS-LICENSES.html::https://discordapp.com/licenses')
-sha512sums=('c30a1da037edb007821f55b4980a25949fed854c5cf01180d5a6cee7e14535eb0aa6ac002a2ece70121516b249aad5a7ac17d84e15858be5113c62830ec07429'
+sha512sums=('739448260b697dd4f004da95406337fbddcdfb85adc375c9dff4a5295bd255a035833da60cc5617c47949982a44b0509d9d50ed82ea01434d13348870ae5b55c'
 'bc348afd2a656d1b84a83fefa12e5310e6f1cbee46b27ed01bdd133c20e72cd98e194ab677ff1623681151de88f3aa599827cbf6b8a329fd11f7f1e47f7a61d1'
 'e09deafc6d1bd5ccc43704973d0e10a83ccb2f987b4f249ecfc8f1128f7bb76e92f5cdd7713775585d9609d3429f91a1317f47e05d9b601ce68678dd1fe33352')
 
